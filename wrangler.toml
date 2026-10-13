@@ -1,5 +1,5 @@
-name = "speechcraft"
-main = "index.ts"
+name = "speechcraft-worker"
+main = "worker/index.ts"
 compatibility_date = "2024-03-01"
 compatibility_flags = ["nodejs_compat"]
 
