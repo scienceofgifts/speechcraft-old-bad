@@ -1,0 +1,6 @@
+name = "speechcraft-api"
+main = "src/index.ts"
+compatibility_date = "2024-03-20"
+
+[vars]
+# Add non-secret environment variables here if needed

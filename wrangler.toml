@@ -1,0 +1,10 @@
+name = "speechcraft-worker"
+main = "worker/index.ts"
+compatibility_date = "2024-03-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+ENVIRONMENT = "production"
+
+# Set your Gemini API key as a secret via wrangler:
+# wrangler secret put GEMINI_API_KEY

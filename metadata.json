@@ -1,0 +1,6 @@
+{
+  "name": "SpeechCraft Studio",
+  "description": "Professional personal speech-training studio for General American English pronunciation, fluency, and vocal delivery.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
